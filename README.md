@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="OCR Router Pipeline Banner" width="100%">
+</p>
+
 # OCR Router Pipeline 🏛️
 
 A complete image processing system that integrates OCR, LLM, and database persistence for structured document extraction.
