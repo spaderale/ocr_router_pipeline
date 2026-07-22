@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="OCR Router Pipeline Banner" width="100%">
+  <img src="assets/preview_ocr.png" alt="OCR Router Pipeline Banner" width="100%">
 </p>
 
 # OCR Router Pipeline 🏛️
